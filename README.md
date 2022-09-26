@@ -1,2 +1,2 @@
-# pyef
-PyEF | Python Efficient Functions
+# PyEF
+Python Efficient Functions
